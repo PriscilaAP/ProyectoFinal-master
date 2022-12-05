@@ -51,36 +51,7 @@
        background-color: #fbe9f4f9;
        
     }
-
-    
-
-    .columna1{
-        padding-left: 10%;
-        margin: 0;
-        width: 45%;
-        float: left;
-    
-        
-       
-    }
-    
-    .columna2{
-        padding: 0%;
-        margin: 0%;
-        width: 45%;
-        float: left;
-        
-    }
    
-        
-    img {
-        width: 70%;
-        padding:0%;
-        margin: 5%;
-        border: solid 2px black;
-        outline: solid 20px  white;
-        
-    }
     
     .contenido p:first-line {
         color: #e34f9bf9;
@@ -98,13 +69,12 @@
         margin:5%;
         
     }
-
-    video{
-        width: 420px;
-        height: 400px;
+    img {
+        width: 30%;
         padding:0%;
-        margin: 5%;
+        margin-left: 35%;
         border: solid 2px black;
         outline: solid 20px  white;
         
     }
+     

@@ -97,3 +97,10 @@
         margin:5%;
         
     }
+    footer{
+        position: absolute;
+        bottom: -350%;
+        margin-left: 420px;
+        padding: 0%;
+    
+    }
